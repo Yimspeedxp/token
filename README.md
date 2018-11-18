@@ -2,17 +2,18 @@
 ### ===========
 # [TUTORIAL](https://youtu.be/NwMYG_jn1HM)
 KLIK
-# [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
+# [SUBCRABE NOW](https://www.youtube.com/user/hackerproth)
 KLIK
-# [CREATOR](http://line.me/ti/p/~adiputra.95)
+# [CREATOR](http://line.me/ti/p/~yim_cjs)
 KLIK
 - install module
 ``` 
 pkg install python2
 pkg install git
-pip2 install thrift==0.9.3
+pip2 install thrift==0.11.0
 pip2 install rsa
 pip2 install requests
+
 ```
 
 - Running
